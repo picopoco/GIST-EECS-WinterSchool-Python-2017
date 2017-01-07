@@ -16,8 +16,7 @@ This course will handle the following utility programs.
 * Jupyter
 * Github
 
-### Course Outline
-The contents may be added or deleted in advance.
+### Course Outline (The contents may be added or deleted in advance.)
 #### Day 1 (02/06, Mon) - Getting started with IPython.
 * 1.1 [What are Python, IPython and Jupyter?](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/12-installation.ipynb)
 * 1.2 [Installing Python with Anaconda](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/12-installation.ipynb)
