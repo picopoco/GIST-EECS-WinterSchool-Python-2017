@@ -60,3 +60,8 @@ This course will handle the following utility programs.
 * 5.6 [Naive bayes](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
 * 5.7 [Decision trees and random forests](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Decision%20Trees%20and%20Random%20Forests.ipynb)
 * 5.8 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
+
+
+### Materials
+#### [Introducing Python (Python3)](http://shop.oreilly.com/product/0636920028659.do) - Bill Lubanovic
+#### [NewYork City Taxi dataset](https://github.com/ipython-books/minibook-2nd-data/blob/master/nyc_taxi.zip?raw=true)
