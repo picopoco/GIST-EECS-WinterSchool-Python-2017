@@ -37,31 +37,32 @@ This course will handle the following utility programs.
 
 - - -
 #### Day 3 (02/08, Thu) - Interactive data analysis with *Pandas* / Numerical computing with *Numpy*
-* 3.1 Exploring a dataset in the Notebook
-* 3.2 Manipulating data
-* 3.3 Complex operations
-* 3.4 A primer to vector computing
-* 3.5 Creating and loading array
-* 3.6 Basic array manipulations
-* 3.7 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
+* 3.1 [Exploring a dataset in the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/21-exploring.ipynb)
+* 3.2 [Manipulating data](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/22-manipulating.ipynb)
+* 3.3 [Complex operations](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/23-groupby.ipynb)
+* 3.4 [A primer to vector computing](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/31-primer.ipynb)
+* 3.5 [Creating and loading array](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/32-creating.ipynb)
+* 3.6 [Basic array manipulations](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/33-basic.ipynb)
+* 3.7 [Computing with NumPy arrays](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/34-computing.ipynb)
+* 3.8 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
 - - -
 #### Day 4 (02/09, Thu) - Interactive plotting and Graphical Interfaces.
-* 4.1 Choosing a plotting backend
-* 4.2 matplotlib and seaborn essentials
-* 4.3 Image processing
+* 4.1 [Choosing a plotting backend](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/41-notebook.ipynb)
+* 4.2 [matplotlib and seaborn essentials](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/42-mpl.ipynb)
+* 4.3 [Image processing](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/43-image.ipynb)
 * 4.4 Further plotting and visualization libraries
 * 4.5 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
 - - -
 #### Day 5 (02/10, Fri) - Machine learning with *SciKit Learn*.
-* 5.1 Introduction to machine learning with SciKit Learn
-* 5.2 Linear regression
-* 5.3 Logistic regression
-* 5.4 Multi class classification
-* 5.5 Support vector machines
-* 5.6 Naive bayes
-* 5.7 Decision trees and random forests
+* 5.1 [Introduction to machine learning with SciKit Learn](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Introduction%20to%20Machine%20Learning.ipynb)
+* 5.2 [Linear regression](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)
+* 5.3 [Logistic regression](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Logistic%20Regression.ipynb)
+* 5.4 [Multi class classification](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Multi-Class%20Classification.ipynb)
+* 5.5 [Support vector machines](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Support%20Vector%20Machines.ipynb)
+* 5.6 [Naive bayes](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
+* 5.7 [Decision trees and random forests](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Decision%20Trees%20and%20Random%20Forests.ipynb)
 * 5.8 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
 - - -
