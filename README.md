@@ -3,7 +3,7 @@
 #### This document is updated by 2017/01/08.
 
 ### Course Description
-
+You will build up a Python environment which can be used for your subsequent researches and course works. I'll try to give you experiences on data manipulation and analysis, visualization, numerical analysis, optimization through 30 hours course. These contents will serve as a alternative (hopefully better) tools of Microsoft® Excel 
 ### Day 1 (02/06, Mon) - A Taste of Python and Python Ingredients.
 - - -
 ### Day 2 (02/07, Tue) - Py Filling.
