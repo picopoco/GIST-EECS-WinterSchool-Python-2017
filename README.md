@@ -6,15 +6,15 @@
 You will build up a Python environment which can be used for your subsequent researches and course works. I'll try to give you experiences on data manipulation and analysis, visualization, numerical analysis, optimization through 30 hours course. These contents will serve as a alternative (hopefully better) tools of Microsoft® Excel Mathworks® Matlab, OriginLab® OriginPro, and some parts of Wolfram Research® Mathematica. All topics will be demonstrated through live-code examples, available at [my github repository](https://github.com/TaekhoNam/GIST-EECS-WinterSchool-Python-2017)
 
 This course will cover the following Python packages.
-* NumPy
-* SciPy
-* Matplotlib
-* Pandas
+* [NumPy](http://www.numpy.org/)
+* [SciPy](http://www.scipy.org/)
+* [Matplotlib](http://matplotlib.org/)
+* [Pandas](http://pandas.pydata.org/)
 
 This course will handle the following utility programs.
-* Anaconda
-* Jupyter
-* Github
+* [Anaconda](https://www.continuum.io/why-anaconda)
+* [Jupyter](http://jupyter.org/)
+* [Github](https://github.com/)
 
 ### Course Outline
 #### Day 1 (02/06, Mon) - Getting started with IPython.
