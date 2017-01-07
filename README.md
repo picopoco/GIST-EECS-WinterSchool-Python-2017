@@ -25,7 +25,6 @@ This course will handle the following utility programs.
 * 1.5 [Ten Jupyter/IPython essentials](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/15-ten.ipynb)
 * 1.6 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
-- - -
 #### Day 2 (02/07, Wed) - How to use python pythonically.
 * 2.1 Numbers, Strings and Iterator
 * 2.2 Lists, Tuples, Dictionaries, and Sets
@@ -35,7 +34,6 @@ This course will handle the following utility programs.
 * 2.6 Namespaces and Scope
 * 2.7 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
-- - -
 #### Day 3 (02/08, Thu) - Interactive data analysis with *Pandas* / Numerical computing with *Numpy*
 * 3.1 [Exploring a dataset in the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/21-exploring.ipynb)
 * 3.2 [Manipulating data](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/22-manipulating.ipynb)
@@ -46,7 +44,6 @@ This course will handle the following utility programs.
 * 3.7 [Computing with NumPy arrays](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter3/34-computing.ipynb)
 * 3.8 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
-- - -
 #### Day 4 (02/09, Thu) - Interactive plotting and Graphical Interfaces.
 * 4.1 [Choosing a plotting backend](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/41-notebook.ipynb)
 * 4.2 [matplotlib and seaborn essentials](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter4/42-mpl.ipynb)
@@ -54,7 +51,6 @@ This course will handle the following utility programs.
 * 4.4 Further plotting and visualization libraries
 * 4.5 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
-- - -
 #### Day 5 (02/10, Fri) - Machine learning with *SciKit Learn*.
 * 5.1 [Introduction to machine learning with SciKit Learn](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Introduction%20to%20Machine%20Learning.ipynb)
 * 5.2 [Linear regression](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20%20Linear%20Regression.ipynb)
@@ -64,5 +60,3 @@ This course will handle the following utility programs.
 * 5.6 [Naive bayes](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
 * 5.7 [Decision trees and random forests](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Decision%20Trees%20and%20Random%20Forests.ipynb)
 * 5.8 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
-
-- - -
