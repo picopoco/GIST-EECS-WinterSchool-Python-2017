@@ -1,6 +1,6 @@
 # Python Programming Course, EECS WinterSchool 2017
 #### Instructor: Taekho Nam, NetCS Lab (thnam@smartx.kr, 010-3536-6217)
-#### This document is updated by 2017-01-08
+##### This document is updated by 2017/01/08.
 
 ### Day 1 (02/06, Mon) - A Taste of Python and Python Ingredients.
 - - -
