@@ -2,6 +2,7 @@
 #### Instructor: Taekho Nam, NetCS Lab (thnam@smartx.kr, 010-3536-6217)
 #### This document is updated by 2017/01/08.
 
+- - -
 ### Course Description
 You will build up a Python environment which can be used for your subsequent researches and course works. I'll try to give you experiences on data manipulation and analysis, visualization, numerical analysis, optimization through 30 hours course. These contents will serve as a alternative (hopefully better) tools of Microsoft® Excel Mathworks® Matlab, OriginLab® OriginPro, and some parts of Wolfram Research® Mathematica. All topics will be demonstrated through live-code examples, available at [my github repository](https://github.com/TaekhoNam/GIST-EECS-WinterSchool-Python-2017)
 
@@ -16,6 +17,11 @@ This course will handle the following utility programs.
 * [Jupyter](http://jupyter.org/)
 * [Github](https://github.com/)
 
+Reference and materials for this course
+* [Introducing Python (Python3)](http://shop.oreilly.com/product/0636920028659.do) - Bill Lubanovic
+* [NewYork City Taxi dataset](https://github.com/ipython-books/minibook-2nd-data/blob/master/nyc_taxi.zip?raw=true)
+
+- - -
 ### Course Outline
 #### Day 1 (02/06, Mon) - Getting started with IPython.
 * 1.1 [What are Python, IPython and Jupyter?](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/12-installation.ipynb)
@@ -60,8 +66,3 @@ This course will handle the following utility programs.
 * 5.6 [Naive bayes](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Supervised%20Learning%20-%20Naive%20Bayes.ipynb)
 * 5.7 [Decision trees and random forests](https://github.com/jmportilla/Udemy---Machine-Learning/blob/master/Decision%20Trees%20and%20Random%20Forests.ipynb)
 * 5.8 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
-
-
-### Materials
-#### [Introducing Python (Python3)](http://shop.oreilly.com/product/0636920028659.do) - Bill Lubanovic
-#### [NewYork City Taxi dataset](https://github.com/ipython-books/minibook-2nd-data/blob/master/nyc_taxi.zip?raw=true)
