@@ -20,11 +20,11 @@ This course will handle the following utility programs.
 The contents may be added or deleted in advance.
 #### Day 1 (02/06, Mon) - Getting started with IPython.
 * 1.1 [What are Python, IPython and Jupyter?](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/12-installation.ipynb)
-* 1.2 Installing Python with Anaconda
-* 1.3 Introducing the Notebook
-* 1.4 A crash course on Python
-* 1.5 Ten Jupyter/IPython essentials
-* 1.6 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
+* 1.2 [Installing Python with Anaconda](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/12-installation.ipynb)
+* 1.3 [Introducing the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/13-nbui.ipynb)
+* 1.4 [A crash course on Python](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/14-python.ipynb)
+* 1.5 [Ten Jupyter/IPython essentials](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter1/15-ten.ipynb)
+* 1.6 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
 - - -
 #### Day 2 (02/07, Wed) - How to use python pythonically.
@@ -34,7 +34,7 @@ The contents may be added or deleted in advance.
 * 2.4 Comprehension
 * 2.5 Functions, Generators, and Decorators
 * 2.6 Namespaces and Scope
-* 2.7 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
+* 2.7 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
 - - -
 #### Day 3 (02/08, Thu) - Interactive data analysis with *Pandas* / Numerical computing with *Numpy*
@@ -44,7 +44,7 @@ The contents may be added or deleted in advance.
 * 3.4 A primer to vector computing
 * 3.5 Creating and loading array
 * 3.6 Basic array manipulations
-* 3.7 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
+* 3.7 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
 - - -
 #### Day 4 (02/09, Thu) - Interactive plotting and Graphical Interfaces.
@@ -52,7 +52,7 @@ The contents may be added or deleted in advance.
 * 4.2 matplotlib and seaborn essentials
 * 4.3 Image processing
 * 4.4 Further plotting and visualization libraries
-* 4.5 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
+* 4.5 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
 - - -
 #### Day 5 (02/10, Fri) - Machine learning with *SciKit Learn*.
@@ -63,5 +63,6 @@ The contents may be added or deleted in advance.
 * 5.5 Support vector machines
 * 5.6 Naive bayes
 * 5.7 Decision trees and random forests
+* 5.8 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
 - - -
