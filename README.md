@@ -6,6 +6,7 @@
 You will build up a Python environment which can be used for your subsequent researches and course works. I'll try to give you experiences on data manipulation and analysis, visualization, numerical analysis, optimization through 30 hours course. These contents will serve as a alternative (hopefully better) tools of Microsoft® Excel Mathworks® Matlab, OriginLab® OriginPro and some parts of Wolfram Research® Mathematica. All topics will be demonstrated through live-code examples, available at [my github repository](https://github.com/TaekhoNam/GIST-EECS-WinterSchool-Python-2017)
 
 ### Course Outline
+The contents may be added or deleted in advance.
 #### Day 1 (02/06, Mon) - Getting started with IPython.
 * 1.1 What are Python, IPython and Jupyter?
 * 1.2 Installing Python with Anaconda
