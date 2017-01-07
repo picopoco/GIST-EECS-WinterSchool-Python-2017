@@ -16,7 +16,6 @@ The contents may be added or deleted in advance.
 * 1.6 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
 
 - - -
-
 #### Day 2 (02/07, Tue) - Py Filling.
 - - -
 #### Day 3 (02/08, Wed)
