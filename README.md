@@ -3,7 +3,7 @@
 #### This document is updated by 2017/01/08.
 
 ### Course Description
-You will build up a Python environment which can be used for your subsequent researches and course works. I'll try to give you experiences on data manipulation and analysis, visualization, numerical analysis, optimization through 30 hours course. These contents will serve as a alternative (hopefully better) tools of Microsoft® Excel Mathworks® Matlab, OriginLab® OriginPro and some parts of Wolfram Research® Mathematica. All topics will be demonstrated through live-code examples, available at [my github repository](https://github.com/TaekhoNam/GIST-EECS-WinterSchool-Python-2017)
+You will build up a Python environment which can be used for your subsequent researches and course works. I'll try to give you experiences on data manipulation and analysis, visualization, numerical analysis, optimization through 30 hours course. These contents will serve as a alternative (hopefully better) tools of Microsoft® Excel Mathworks® Matlab, OriginLab® OriginPro, and some parts of Wolfram Research® Mathematica. All topics will be demonstrated through live-code examples, available at [my github repository](https://github.com/TaekhoNam/GIST-EECS-WinterSchool-Python-2017)
 
 ### Course Outline
 The contents may be added or deleted in advance.
@@ -16,11 +16,30 @@ The contents may be added or deleted in advance.
 * 1.6 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
 
 - - -
-#### Day 2 (02/07, Tue) - Py Filling.
+#### Day 2 (02/07, Wed) - Interactive data analysis with *Pandas* & Numerical computing with *NumPy*
+* 2.1 Exploring a dataset in the Notebook
+* 2.2 Manipulating data
+* 2.3 Complex operations
+* 2.4 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
+
 - - -
-#### Day 3 (02/08, Wed)
+#### Day 3 (02/08, Thu) - Numerical computing with *NumPy*.
+* 3.1 A primer to vector computing
+* 3.2 Creating and loading array
+* 3.3 Basic array manipulations
+* 3.4 
+
 - - -
-#### Day 4 (02/09, Thu)
+#### Day 4 (02/09, Thu) - Interactive plotting and Graphical Interfaces.
+* 4.1 Choosing a plotting backend
+* 4.2 matplotlib and seaborn essentials
+* 4.3 Image processing
+* 4.4 Further plotting and visualization libraries
+
 - - -
-#### Day 5 (02/10, Fri)
+#### Day 5 (02/10, Fri) - Machine learning with *SciKit Learn*.
 - - -
+* 5.1 Introduction to machine learning with SciKit Learn
+* 5.2 Linear regression
+* 5.3 Logistic regression
+*
