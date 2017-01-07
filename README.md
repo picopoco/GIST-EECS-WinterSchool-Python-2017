@@ -13,6 +13,7 @@ You will build up a Python environment which can be used for your subsequent res
 * 1.4 A crash course on Python
 * 1.5 Ten Jupyter/IPython essentials
 * 1.6 Project Euler, Baekjoon Online Judge and Dovelet.
+
 - - -
 
 #### Day 2 (02/07, Tue) - Py Filling.
