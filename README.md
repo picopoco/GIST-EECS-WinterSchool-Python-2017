@@ -16,18 +16,24 @@ The contents may be added or deleted in advance.
 * 1.6 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
 
 - - -
-#### Day 2 (02/07, Wed) - Interactive data analysis with *Pandas* & Numerical computing with *NumPy*
-* 2.1 Exploring a dataset in the Notebook
-* 2.2 Manipulating data
-* 2.3 Complex operations
-* 2.4 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
+#### Day 2 (02/07, Wed) - How to use python pythonically.
+* 2.1 Numbers, Strings and Iterator
+* 2.2 Lists, Tuples, Dictionaries, and Sets
+* 2.3 #, \, if, while and for loop
+* 2.4 Comprehension
+* 2.5 Functions, Generators, and Decorators
+* 2.6 Namespaces and Scope
+* 2.7 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
 
 - - -
-#### Day 3 (02/08, Thu) - Numerical computing with *NumPy*.
-* 3.1 A primer to vector computing
-* 3.2 Creating and loading array
-* 3.3 Basic array manipulations
-* 3.4 
+#### Day 3 (02/08, Thu) - Interactive data analysis with *Pandas* / Numerical computing with *Numpy*
+* 3.1 Exploring a dataset in the Notebook
+* 3.2 Manipulating data
+* 3.3 Complex operations
+* 3.4 A primer to vector computing
+* 3.5 Creating and loading array
+* 3.6 Basic array manipulations
+* 3.7 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
 
 - - -
 #### Day 4 (02/09, Thu) - Interactive plotting and Graphical Interfaces.
@@ -35,11 +41,15 @@ The contents may be added or deleted in advance.
 * 4.2 matplotlib and seaborn essentials
 * 4.3 Image processing
 * 4.4 Further plotting and visualization libraries
+* 4.5 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
 
 - - -
 #### Day 5 (02/10, Fri) - Machine learning with *SciKit Learn*.
-- - -
 * 5.1 Introduction to machine learning with SciKit Learn
 * 5.2 Linear regression
 * 5.3 Logistic regression
-*
+* 5.4 Multi class classification
+* 5.5 Support vector machines
+* 5.6 Naive bayes
+* 5.7 Decision trees and random forests
+- - -
