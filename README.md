@@ -13,7 +13,7 @@ The contents may be added or deleted in advance.
 * 1.3 Introducing the Notebook
 * 1.4 A crash course on Python
 * 1.5 Ten Jupyter/IPython essentials
-* 1.6 Project Euler, Baekjoon Online Judge and Dovelet.
+* 1.6 Things to do (Project Euler, Baekjoon Online Judge and Dovelet)
 
 - - -
 
