@@ -7,14 +7,13 @@ You will build up a Python environment which can be used for your subsequent res
 
 ### Course Outline
 #### Day 1 (02/06, Mon) - Getting started with IPython.
-- - -
 * 1.1 What are Python, IPython and Jupyter?
 * 1.2 Installing Python with Anaconda
 * 1.3 Introducing the Notebook
 * 1.4 A crash course on Python
 * 1.5 Ten Jupyter/IPython essentials
 * 1.6 Project Euler, Baekjoon Online Judge and Dovelet.
-
+- - -
 #### Day 2 (02/07, Tue) - Py Filling.
 - - -
 #### Day 3 (02/08, Wed)
