@@ -4,7 +4,7 @@
 
 - - -
 ### Course Description
-You will build up a Python environment which can be used for your subsequent researches and course works. I'll try to give you experiences on data manipulation and analysis, visualization, numerical analysis, optimization through 30 hours course. These contents will serve as a alternative (hopefully better) tools of Microsoft® Excel Mathworks® Matlab, OriginLab® OriginPro, and some parts of Wolfram Research® Mathematica. All topics will be demonstrated through live-code examples, available at [my github repository](https://github.com/TaekhoNam/GIST-EECS-WinterSchool-Python-2017)
+You will build up a Python environment which can be used for your subsequent researches and course works. I'll try to give you experiences on data manipulation, data analysis, numerical analysis, visualization, and machine learning through 30 hours course. These contents will serve as a alternative tools of Microsoft® Excel Mathworks® Matlab, and some parts of Wolfram Research® Mathematica. All topics will be demonstrated through live-code examples, available at [my github repository](https://github.com/TaekhoNam/GIST-EECS-WinterSchool-Python-2017)
 
 This course will cover the following Python packages.
 * [NumPy](http://www.numpy.org/)
