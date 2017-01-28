@@ -40,8 +40,7 @@ Reference and materials for this course
 * 2.3 #, \, if, while and for loop
 * 2.4 Comprehension
 * 2.5 Function and Generator
-* 2.6 Namespaces and Scope
-* 2.7 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
+* 2.6 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
 #### Day 3 (02/08, Thu) - Interactive data analysis with *Pandas* / Numerical computing with *Numpy*
 * 3.1 [Exploring a dataset in the Notebook](https://github.com/ipython-books/minibook-2nd-code/blob/master/chapter2/21-exploring.ipynb)
