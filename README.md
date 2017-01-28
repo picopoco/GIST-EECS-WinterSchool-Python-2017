@@ -39,7 +39,7 @@ Reference and materials for this course
 * 2.2 Lists, Tuples, Dictionaries, and Sets
 * 2.3 #, \, if, while and for loop
 * 2.4 Comprehension
-* 2.5 Functions, Generators, and Decorators
+* 2.5 Function and Generator
 * 2.6 Namespaces and Scope
 * 2.7 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
