@@ -35,11 +35,11 @@ Reference and materials for this course
 * 1.6 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
 #### Day 2 (02/07, Wed) - How to use python pythonically.
-* 2.1 Numbers, Strings and Iterator
-* 2.2 Lists, Tuples, Dictionaries, and Sets
-* 2.3 #, \, if, while and for loop
-* 2.4 Comprehension
-* 2.5 Function and Generator
+* 2.1 [Numbers, Strings and Iterator](http://taekho-nology.tistory.com/81)
+* 2.2 [Lists, Tuples, Dictionaries, and Sets](http://taekho-nology.tistory.com/82)
+* 2.3 [#, \, if, while and for loop](http://taekho-nology.tistory.com/83)
+* 2.4 [Data structures and Comprehensions](http://taekho-nology.tistory.com/84)
+* 2.5 [Function and Generator](http://taekho-nology.tistory.com/85)
 * 2.6 [Things to do (Project Euler, Baekjoon Online Judge and Dovelet)](https://github.com/TaekhoNam/projecteuler)
 
 #### Day 3 (02/08, Thu) - Interactive data analysis with *Pandas* / Numerical computing with *Numpy*
