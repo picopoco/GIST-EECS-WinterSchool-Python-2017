@@ -20,6 +20,7 @@ This course will handle the following utility programs.
 Reference and materials for this course
 * [Introducing Python (Python3)](http://shop.oreilly.com/product/0636920028659.do) - Bill Lubanovic
 * [NewYork City Taxi dataset](https://github.com/ipython-books/minibook-2nd-data/blob/master/nyc_taxi.zip?raw=true)
+* [Images for image processing](https://www.dropbox.com/s/dfmhix6txbj1osn/imgs.zip)
 * [Project Euler](https://projecteuler.net/)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
 * [Dovelet](http://59.23.27.112/)
